@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySOS app</string>
+    <string name="navigation_guidance_day" translatable="false">mapbox://styles/mapbox/navigation-guidance-day-v4</string>
+</resources>
